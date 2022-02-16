@@ -3,4 +3,4 @@ This dataset collects information from 100k medical appointments in Brazil and i
 characteristics about the patient are included in each row
 
 
-I found What factors are important for us to know in order to predict if a patient will be show up for their scheduled appointment?
+I found What factors are important for us to know in order to predict if a patient will be show up for their scheduled appointment
